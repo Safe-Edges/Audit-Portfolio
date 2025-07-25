@@ -1,5 +1,7 @@
 # Safe Edges Audit Report Portfolio
 
+Reach Out Safe Edges Smart Contract Security Audit Telegram[ @bugtester25](https://t.me/bugtester25)
+
 ## Overview
 
 This repository contains a comprehensive portfolio of smart contract security audits conducted by the Safe Edges Security Team. The collection demonstrates Safe Edges' expertise in identifying vulnerabilities, providing actionable recommendations, and supporting the secure development of blockchain projects.
